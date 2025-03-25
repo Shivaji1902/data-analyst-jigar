@@ -1,12 +1,15 @@
 # data-analyst-jigar
-Exploratory Data Analysis
-Project Description: Exploratory Data Analysis (EDA) on Titanic Dataset
-Project Title: Surviving the Titanic: An Exploratory Data Analysis
-Objective: The primary goal of this project is to perform an exploratory data analysis (EDA) on the Titanic dataset to uncover patterns, trends, and insights related to passenger survival. By analyzing various features such as age, gender, class, and fare, we aim to understand the factors that influenced the likelihood of survival during the Titanic disaster.
-Dataset: The Titanic dataset consists of passenger information from the ill-fated voyage of the RMS Titanic, including details such as:
-•	Passenger ID: Unique identifier for each passenger
-•	Survived: Survival status (0 = No, 1 = Yes)
-•	Pclass: Passenger class (1st, 2nd, 3rd)
+# Exploratory Data Analysis
+- Project Description: Exploratory Data Analysis (EDA) on Operating Power Water System
+- Project Title: Cooling tower permit issued: An Exploratory Data Analysis
+- Project Objective: The main goal of this project is to perform an exploratory data analysis (EDA) on the Vancouver city dataset to find the total issued permit for cooling water system. By analyzing various features such as system status, mechanical system type, we try to analyse the effect of that things on permit.
+- Dataset: The operating power water system data from Vancouver City open data set, including some details such as:
+  
+•	Operating permit numbers: unique number assign to each customer 
+•	Address: Residential address
+•   Permit status: issued or not issued 
+
+•	Mechanical stsyem type: System type (such as Rainwater Harvesting/Alternative Water Systems, Cooling tower)
 •	Name: Name of the passenger
 •	Sex: Gender of the passenger
 •	Age: Age of the passenger
