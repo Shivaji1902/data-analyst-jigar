@@ -12,9 +12,9 @@
     * System status: Active or Inactive
 - Methodology:
    - Data Collection and Preparation:
-        - Load the Vancouver City data directly in S3 storage
-        - Perform initial data cleaning, which includes handling missing values, correcting data types, and renaming columns for clarity.
-2-	Descriptive Statistics:
+        - Load the operating power water system data from Vancouver City data, directly in S3 storage
+        - Perform initial data cleaning, which includes handling missing values, correcting data types, and renaming columns for clarity, remove unnacessary columns.
+   - Data Profiling:
 o	Generate summary statistics (mean, median, mode) for numerical features (like Age and Fare) and frequency distributions for categorical features (like Pclass and Sex).
 3-	Data Visualization:
 o	Create visualizations to illustrate key insights:
@@ -31,9 +31,7 @@ o	Summarize the findings based on data visualizations and statistical analyses, 
 6-	Conclusion:
 o	Discuss the implications of the findings and suggest further analyses or data-driven decisions that could be explored, such as building predictive models to classify survival based on passenger features.
 Tools and Technologies:
-•	Python (Pandas, NumPy, Matplotlib, Seaborn)
-•	Jupyter Notebook for interactive data exploration
-•	Any additional data visualization tools like Tableau or Power BI (optional)
+•	Python (Pandas, NumPy, Matplotlib, Seaborn
 Deliverables:
 •	A comprehensive Jupyter Notebook containing all steps of the analysis, including code, visualizations, and narrative explanations of findings.
 •	A presentation summarizing key insights and visualizations for stakeholders or peers.
