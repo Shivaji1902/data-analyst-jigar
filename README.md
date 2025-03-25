@@ -5,9 +5,9 @@
 - Project Objective: The main goal of this project is to perform an exploratory data analysis (EDA) on the Vancouver city dataset to find the total issued permit for cooling water system. By analyzing various features such as system status, mechanical system type, we try to analyse the effect of that things on permit.
 - Dataset: The operating power water system data from Vancouver City open data set, including some details such as:
   
-•	Operating permit numbers: unique number assign to each customer 
+--	Operating permit numbers: unique number assign to each customer 
 •	Address: Residential address
-•   Permit status: issued or not issued 
+• Permit status: issued or not issued 
 
 •	Mechanical stsyem type: System type (such as Rainwater Harvesting/Alternative Water Systems, Cooling tower)
 •	Name: Name of the passenger
