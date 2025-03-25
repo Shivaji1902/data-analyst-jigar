@@ -4,20 +4,12 @@
 - Project Title: Cooling tower permit issued: An Exploratory Data Analysis
 - Project Objective: The main goal of this project is to perform an exploratory data analysis (EDA) on the Vancouver city dataset to find the total issued permit for cooling water system. By analyzing various features such as system status, mechanical system type, we try to analyse the effect of that things on permit.
 - Dataset: The operating power water system data from Vancouver City open data set, including some details such as:
-  
---	Operating permit numbers: unique number assign to each customer 
-•	Address: Residential address
-• Permit status: issued or not issued 
-
-•	Mechanical stsyem type: System type (such as Rainwater Harvesting/Alternative Water Systems, Cooling tower)
-•	Name: Name of the passenger
-•	Sex: Gender of the passenger
-•	Age: Age of the passenger
-•	SibSp: Number of siblings/spouses aboard
-•	Parch: Number of parents/children aboard
-•	Ticket: Ticket number
-•	Fare: Fare paid by the passenger
-•	Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+    *	Operating permit numbers: unique number assign to each customer 
+    *	Address: Residential address
+    * Permit status: issued or not issued
+    * Mechanical stsyem type: System type (such as Rainwater Harvesting/Alternative Water Systems, Cooling tower)
+    * System report date: Date reported by city of Vancouver
+    * System status: Active or Inactive
 Methodology:
 1-	Data Collection and Preparation:
 o	Load the Titanic dataset using Python libraries like Pandas.
