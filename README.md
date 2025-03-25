@@ -10,10 +10,10 @@
     * Mechanical stsyem type: System type (such as Rainwater Harvesting/Alternative Water Systems, Cooling tower)
     * System report date: Date reported by city of Vancouver
     * System status: Active or Inactive
-Methodology:
-1-	Data Collection and Preparation:
-o	Load the Titanic dataset using Python libraries like Pandas.
-o	Perform initial data cleaning, which includes handling missing values, correcting data types, and renaming columns for clarity.
+- Methodology:
+   - Data Collection and Preparation:
+        - Load the Vancouver City data directly in S3 storage
+        - Perform initial data cleaning, which includes handling missing values, correcting data types, and renaming columns for clarity.
 2-	Descriptive Statistics:
 o	Generate summary statistics (mean, median, mode) for numerical features (like Age and Fare) and frequency distributions for categorical features (like Pclass and Sex).
 3-	Data Visualization:
