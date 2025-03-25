@@ -15,8 +15,9 @@
         - Load the operating power water system data from Vancouver City data, directly in S3 storage
         - Perform initial data cleaning, which includes handling missing values, correcting data types, and renaming columns for clarity, remove unnacessary columns.
    - Data Profiling:
-o	Generate summary statistics (mean, median, mode) for numerical features (like Age and Fare) and frequency distributions for categorical features (like Pclass and Sex).
-3-	Data Visualization:
+        - It generally deals with data quality of the dataset conccerning missing, and duplicate values. 
+   - Data Cleaning:
+        - 
 o	Create visualizations to illustrate key insights:
 	Histograms and Boxplots: Analyze the distribution of continuous variables like Age and Fare.
 	Bar Charts: Showcase survival rates across different categories (e.g., Sex, Pclass).
